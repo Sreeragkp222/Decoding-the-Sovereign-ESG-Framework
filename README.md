@@ -1,6 +1,6 @@
-# Decoding-the-Sovereign-ESG-Framework
+# Tracking-Global-ESG-Progress
 Capstone project analyzing the World Bank Sovereign ESG Data Framework (2015–2023) to evaluate various Environmental, Social and Governance indicators using Python, Pandas, Matplotlib, Seaborn, and Plotly.
-# 🌍 Decoding the Sovereign ESG Framework: Global Sustainability & Policy Analysis
+# 🌍 Tracking Global ESG Progress: Global Sustainability & Policy Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
