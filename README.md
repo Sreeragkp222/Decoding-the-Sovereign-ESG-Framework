@@ -69,6 +69,9 @@ The **World Bank Sovereign ESG Framework (2015–2023)** analysis reveals signif
   * Sub-Saharan Africa holds the largest agricultural land area as a percentage of total land.
 * **V. Natural Capital Management:** 
   * East Asia & Pacific and Latin America lead in forest area percentage; the MENA region holds the least.
+![Distribution of water stress](images/Distribution_of_water_stress.png)
+
+![Fossil fuel consumption](images/Top_10_economies_with_high_Fossil_fuel_consumprion.png)
 
 ---
 
@@ -90,6 +93,11 @@ The **World Bank Sovereign ESG Framework (2015–2023)** analysis reveals signif
   * **Gini Index:** India maintains the lowest income inequality in South Asia (~25), compared to Sri Lanka (38) and Bhutan.
   * **Poverty:** South Sudan, Madagascar, and Honduras report the highest poverty headcount ratios globally.
 
+![Access to electricity](images/Access_to_electricity_in_South_Asian_economies.png)
+
+![Literacy rate vs Life expectancy](images/Literacy_rate_vs_Life_Expectancy.png)
+
+![Unemployment rate trend in India](images/Unemployment_rate_in_India.png)
 ---
 
 ### 🏛️ Pillar 3: Governance Indicators
