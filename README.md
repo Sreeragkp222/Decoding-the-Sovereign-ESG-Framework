@@ -35,10 +35,16 @@ By analyzing multi-year sovereign indicators (2015–2023), this project seeks t
 The **World Bank Sovereign ESG Framework (2015–2023)** analysis reveals significant regional divergences across environmental impact, social resilience, and economic equity:
 
 * **Environmental & Climate Vulnerability:** While global emissions briefly dipped during COVID-19 (2020), North America leads per-capita emissions across all GHGs. Agricultural-heavy regions (South Asia) dominate methane ($CH_4$) and nitrous oxide ($N_2O$) outputs.
-* **Service Access & Quality of Life:** Basic services (electricity access) show rapid regional convergence (e.g., India approaching ~100%, Bangladesh jumping from <75% to 99%). However, critical infrastructure gaps remain in safely managed drinking water (25% gap in India).
-* **Demographic & Human Development Shifts:** Declining fertility rates (India falling to 2.0) signal impending demographic shifts. Developed regions show saturated literacy (~100%), while regional mortality remains heavily skewed (Sub-Saharan Africa mortality is 3x higher than South Asia).
-* **Economic Inequality & Sovereign Risk:** Income distribution varies drastically within regions; while India maintains a low Gini index (~25), neighboring economies like Sri Lanka (38) show elevated inequality risks.
 
+![Global C02 emission per capita](images/Global_CO2_emission_per_capita.png)
+* **Service Access & Quality of Life:** Basic services (electricity access) show rapid regional convergence (e.g., India approaching ~100%, Bangladesh jumping from <75% to 99%). However, critical infrastructure gaps remain in safely managed drinking water (25% gap in India).
+
+![Safely managed drinking water trend (India)](Access_to_safely_managed_drinking_water_india.png)
+* **Demographic & Human Development Shifts:** Declining fertility rates (India falling to 2.0) signal impending demographic shifts. Developed regions show saturated literacy (~100%), while regional mortality remains heavily skewed (Sub-Saharan Africa mortality is 3x higher than South Asia).
+
+![Fertility rate trend in India](images/Fertility_rate_and_life_expectancy_trend_India.png)
+* **Economic Inequality & Sovereign Risk:** Income distribution varies drastically within regions; while India maintains a low Gini index (~25), neighboring economies like Sri Lanka (38) show elevated inequality risks.
+![Global GDP Growth extremes](images/Global_GDP_growth_extremes.png)
 ---
 
 <details>
