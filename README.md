@@ -131,7 +131,7 @@ The **World Bank Sovereign ESG Framework (2015–2023)** analysis reveals signif
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Sreeragkp222/Decoding-the-Sovereign-ESG-Framework-Capstone-Project.git
+   git clone https://github.com/Sreeragkp222/Decoding-the-Sovereign-ESG-Framework.git
    cd Decoding-the-Sovereign-ESG-Framework-Capstone-Project
 ---
 
